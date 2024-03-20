@@ -1,3 +1,3 @@
 ## Aula05 
 
-Desenvolvido por Sabrina
+Desenvolvido por Sabrina Silva Rocha
